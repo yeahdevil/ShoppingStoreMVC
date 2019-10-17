@@ -1,0 +1,19 @@
+﻿@model IEnumerable<string>
+    @Html.ActionLink("Home", "List", "Product", null, new { @class = "btn btn-block btn-dark btn-lg m-lg-3"})
+<br />
+@foreach(var link in Model)
+{
+    @Html.RouteLink(link, new
+{
+    controller = "Product",
+    action = "List",
+    category = link,
+    page = 1
+},
+new
+{
+    @class = "btn btn-block btn-lg m-lg-3 p-lg-2 "
+    + (link ==ViewBag.SelectedCategory?"btn-primary":"btn-dark")
+})
+    <br />
+}

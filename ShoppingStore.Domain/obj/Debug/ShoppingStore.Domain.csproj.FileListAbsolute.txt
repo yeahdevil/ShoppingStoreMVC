@@ -1,0 +1,11 @@
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\bin\Debug\ShoppingStore.Domain.dll.config
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\bin\Debug\ShoppingStore.Domain.dll
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\bin\Debug\ShoppingStore.Domain.pdb
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\obj\Debug\ShoppingStore.Domain.csprojAssemblyReference.cache
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\obj\Debug\ShoppingStore.Domain.csproj.CopyComplete
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\obj\Debug\ShoppingStore.Domain.dll
+C:\Users\prach\Desktop\New folder\ShoppingStore\ShoppingStore.Domain\obj\Debug\ShoppingStore.Domain.pdb
